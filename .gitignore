@@ -1,0 +1,5 @@
+# Untracked Cache File
+*.pyc
+
+# Untracked Graph Image File
+img/*.png
